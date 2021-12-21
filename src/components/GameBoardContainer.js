@@ -74,9 +74,10 @@ const getCharacter = (characters) => {
       <div
       style={{
         display: "grid", 
-      gridTemplateColumns: "repeat(6, 1fr)",
+      gridTemplateColumns: "repeat(auto-fill, minmax(150px, 1fr))",
       gridColumnGap: "1px",
       gridTemplateRows: "repeat(4, 1fr)",
+      gridTemplateAreas: "initial"
       }}>
 
       {characters.map((char) => {
