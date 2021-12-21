@@ -18,7 +18,7 @@ const GameBoardCards = (props) => {
   const styles2 = {
     width: "150px",
     padding: "5px",
-    opacity: "0.3"
+    opacity: "0.2"
   }
 
 

@@ -44,6 +44,12 @@ const getCharacter = (characters) => {
 
     return (
       <>
+      <div style={{ paddingTop: "5px"}}> 
+      <h3>Throne of Glass & A Court of Thorns and Roses</h3>
+
+      <h1>Guess Who! </h1>
+
+       </div>
       <div
       style={{display:'flex', justifyContent: 'center', margin: '10px'}}>
       <DeckCard
@@ -89,6 +95,8 @@ const getCharacter = (characters) => {
         )
       })}
       </div>
+      <h5
+            style={{display: "flex", justifyContent: "center"}}>Erin Hancock &bull; 2021</h5>
         </>
     )
 }
