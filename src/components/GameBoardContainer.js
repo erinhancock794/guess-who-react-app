@@ -89,11 +89,7 @@ const getCharacter = (characters) => {
         )
       })}
       </div>
-                {/* <GameBoardCards
- /> */}
-
         </>
-        
     )
 }
 
