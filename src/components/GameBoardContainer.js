@@ -35,6 +35,8 @@ const GameBoardContainer = (props) => {
       setActive(!isActive);
     };
 const getCharacter = (characters) => {
+  console.log('characters-->', characters
+  );
     const lengthofDeck = characters.length;
     const randomInt = getRandomInt(1,lengthofDeck)
     return _.find(characters, (c) => { return c.id === randomInt});

@@ -1,6 +1,5 @@
 
 import * as React from "react";
-import _ from 'lodash';
 import deckback from '../data/Assets/3x/DeckBack@3x.png';
 import {characters} from '../data/characters';
 

@@ -21,7 +21,7 @@ import morrigan from './Assets/3x/Morrigan@3x.png';
 import nesta from './Assets/3x/Nesta@3x.png';
 import rhysand from './Assets/3x/Rhysand@3x.png';
 import tamlin from './Assets/3x/Tamlin@3x.png';
-import yrene from './Assets/3x/Yrene@3x.png';
+// import yrene from './Assets/3x/Yrene@3x.png';
 import lucien from './Assets/3x/Lucien@3x.png';
 
 import deckrowan from './Assets/3x/DeckRowan@3x.png';
@@ -47,7 +47,7 @@ import deckmorrigan from './Assets/3x/DeckMorrigan@3x.png';
 import decknesta from './Assets/3x/DeckNesta@3x.png';
 import deckrhysand from './Assets/3x/DeckRhysand@3x.png';
 import decktamlin from './Assets/3x/DeckTamlin@3x.png';
-import deckyrene from './Assets/3x/DeckYrene@3x.png';
+// import deckyrene from './Assets/3x/DeckYrene@3x.png';
 import decklucien from './Assets/3x/DeckLucien@3x.png';
 
 
