@@ -69,8 +69,7 @@ const getCharacter = (characters) => {
       style={{
         display: "grid", 
       gridTemplateColumns: "repeat(6, 1fr)",
-      
-      gridColumnGap: "10px",
+      gridColumnGap: "1px",
       gridTemplateRows: "repeat(4, 1fr)",
       }}>
 

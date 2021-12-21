@@ -12,14 +12,13 @@ const GameBoardCards = (props) => {
 
   const styles = {
     width: "150px",
-    padding: "10px",
+    padding: "5px",
   };
 
   const styles2 = {
     width: "150px",
-    padding: "10px",
-    opacity: "0.3",
-    backgroundColor: "black"
+    padding: "5px",
+    opacity: "0.3"
   }
 
 
